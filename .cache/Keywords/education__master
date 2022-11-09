@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0396A949C85744668323131CF13DFF54",
+  "keywordClasses": [
+    {
+      "name": "education.master",
+      "keywordMethods": [
+        {
+          "name": "master_education",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

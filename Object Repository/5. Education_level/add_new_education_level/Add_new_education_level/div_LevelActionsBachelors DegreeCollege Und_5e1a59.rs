@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LevelActionsBachelors DegreeCollege Und_5e1a59</name>
+   <tag></tag>
+   <elementGuidId>fd50a69c-1f3e-4b67-b7f2-d0ba2deb1d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.orangehrm-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03dc79e6-94cb-40d1-969c-07b5a494bbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orangehrm-container</value>
+      <webElementGuid>0bec2260-4cea-41e9-82a5-e20a7667e44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LevelActionsBachelor's DegreeCollege UndergraduateGP1GP1b67d7c75-cd6f-47bf-8bb5-941cd6021bbbHigh School DiplomaLevel1Master's DegreeTestTest1</value>
+      <webElementGuid>7c677851-0c31-434c-85af-809639b138c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]</value>
+      <webElementGuid>9ad782b7-4ca3-4283-a964-23cfc229896a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[3]</value>
+      <webElementGuid>9f128afd-b3f8-465c-b617-a2f0026ab244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>61432f58-4ebc-4f9e-943d-e5286e506686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;LevelActionsBachelor&quot; , &quot;'&quot; , &quot;s DegreeCollege UndergraduateGP1GP1b67d7c75-cd6f-47bf-8bb5-941cd6021bbbHigh School DiplomaLevel1Master&quot; , &quot;'&quot; , &quot;s DegreeTestTest1&quot;) or . = concat(&quot;LevelActionsBachelor&quot; , &quot;'&quot; , &quot;s DegreeCollege UndergraduateGP1GP1b67d7c75-cd6f-47bf-8bb5-941cd6021bbbHigh School DiplomaLevel1Master&quot; , &quot;'&quot; , &quot;s DegreeTestTest1&quot;))]</value>
+      <webElementGuid>cc09687c-bfd9-4fa6-8101-b3705591859e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

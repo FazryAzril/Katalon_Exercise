@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SuccessSuccessfully Deleted</name>
+   <tag></tag>
+   <elementGuidId>e66a7121-1ef6-45c8-b0ff-8d9307c6b67f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-toast.oxd-toast--success.oxd-toast-container--toast</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0bfcab8a-6d07-43db-823c-ba3d98d38b95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-toast oxd-toast--success oxd-toast-container--toast</value>
+      <webElementGuid>8b45dc38-8271-4c28-8fe3-d28d65c2d195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>assertive</value>
+      <webElementGuid>5aba35ea-c122-4ad1-b68b-bb05d0610247</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SuccessSuccessfully Deleted × </value>
+      <webElementGuid>b262b0ce-df13-4042-815c-6cc22a0773a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]</value>
+      <webElementGuid>62e746e0-d5ab-4952-bcd6-e08545048d38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div</value>
+      <webElementGuid>22617f09-9947-4baa-92b9-6b5f49d760ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::div[2]</value>
+      <webElementGuid>b0892a1a-3ce3-47b3-9763-40d5adff4251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>acfe96b8-ee88-4386-910d-55a6a8370726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SuccessSuccessfully Deleted × ' or . = 'SuccessSuccessfully Deleted × ')]</value>
+      <webElementGuid>fd0fb248-a600-4759-a1e7-6fc84654d5fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

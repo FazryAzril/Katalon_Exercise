@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_new_user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e78194f-d7eb-45ad-aeb0-3da060f82162</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0f08869-716a-467c-accd-8ea629db97b8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0f08869-716a-467c-accd-8ea629db97b8</id>
+      <masked>false</masked>
+      <name>y</name>
+   </variable>
+</TestCaseEntity>

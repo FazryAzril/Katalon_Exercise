@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Did_not_enter_skills_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>574c05c2-20dc-44a3-8b4b-4391a8cab90d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf9f7422-75c3-4dac-8b8b-3fd9c6729974</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf9f7422-75c3-4dac-8b8b-3fd9c6729974</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

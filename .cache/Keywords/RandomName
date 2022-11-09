@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "488B989EEC0B5DD3DEA3A2655E4C49F0",
+  "keywordClasses": [
+    {
+      "name": "RandomName",
+      "keywordMethods": [
+        {
+          "name": "CreateRandomName",
+          "parameters": [
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

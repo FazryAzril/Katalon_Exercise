@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_new_job_category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>069f4e01-44ba-4d9d-bba9-62cf0c25051d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9add6a3-6f85-4edc-a21a-aad03594c13c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9add6a3-6f85-4edc-a21a-aad03594c13c</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

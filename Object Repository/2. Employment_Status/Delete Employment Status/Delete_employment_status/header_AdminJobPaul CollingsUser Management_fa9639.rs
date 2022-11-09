@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_AdminJobPaul CollingsUser Management_fa9639</name>
+   <tag></tag>
+   <elementGuidId>7bf71285-e9fe-4ed4-b5b7-8ef5799c5e9b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>header.oxd-topbar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>ac8c9d48-d9c2-405d-8282-3d724a26db6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar</value>
+      <webElementGuid>8977373e-cdbc-476c-a97f-4a44819b878d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AdminJobPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration </value>
+      <webElementGuid>fb3d46ba-1b9f-478d-a25e-4c15c722cc9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]</value>
+      <webElementGuid>c8ca9a3a-677d-4779-8be8-0fc58f5d8618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header</value>
+      <webElementGuid>ad558d8e-9a02-4aff-a93e-5a9daae40595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header</value>
+      <webElementGuid>66c599b9-d250-4679-9dfc-415b3a613996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'AdminJobPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration ' or . = 'AdminJobPaul CollingsUser Management Job Organization Qualifications NationalitiesCorporate BrandingConfiguration ')]</value>
+      <webElementGuid>5a91682a-1123-4ea1-97b5-3141551d5e42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_new_education_level</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26e3cebd-d864-4d4d-af52-5944e86b9baf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>351a3fbb-3e3a-47ee-9dad-dd7469853fdd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>351a3fbb-3e3a-47ee-9dad-dd7469853fdd</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

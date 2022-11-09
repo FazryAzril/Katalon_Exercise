@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>enter_the same_education_name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87bd7927-d0dc-4356-a8e8-d6749e039468</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ee82919-990d-4bc3-ab81-f3825a919331</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ee82919-990d-4bc3-ab81-f3825a919331</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "EF20363C6EE735CDC65D616359B39405",
+  "keywordClasses": [
+    {
+      "name": "add_skills.add_skills",
+      "keywordMethods": [
+        {
+          "name": "skills",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

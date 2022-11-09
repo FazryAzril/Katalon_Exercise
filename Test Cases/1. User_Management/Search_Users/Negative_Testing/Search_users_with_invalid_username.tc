@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search_users_with_invalid_username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3257d67-e335-4daa-8789-1a51afe1dadf</testCaseGuid>
+</TestCaseEntity>

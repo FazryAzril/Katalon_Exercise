@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "7D08664F23BDDC16869FBDBE7265F33B",
+  "keywordClasses": [
+    {
+      "name": "String_generator",
+      "keywordMethods": [
+        {
+          "name": "randomStringMaker",
+          "parameters": [
+            {
+              "name": "strLength",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

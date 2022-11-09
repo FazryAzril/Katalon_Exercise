@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_employment_status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92e31ecc-5de1-4ae6-b531-5260c0472be0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e5571ae-4547-487d-a735-b6d10dea74d9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e5571ae-4547-487d-a735-b6d10dea74d9</id>
+      <masked>false</masked>
+      <name>y</name>
+   </variable>
+</TestCaseEntity>

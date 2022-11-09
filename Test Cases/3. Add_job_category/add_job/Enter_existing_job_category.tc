@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter_existing_job_category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>64c147f4-d8d2-4913-a728-be6d8b037b48</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1f8db5a0-4cf3-4588-b137-0a0da3d055b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1f8db5a0-4cf3-4588-b137-0a0da3d055b1</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

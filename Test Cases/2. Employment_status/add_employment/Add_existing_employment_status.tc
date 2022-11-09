@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add_existing_employment_status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5884722-7c6f-49ab-9893-eaf6cb79fd55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91a10cdd-83e7-48b1-a610-b192c24af505</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>91a10cdd-83e7-48b1-a610-b192c24af505</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>
